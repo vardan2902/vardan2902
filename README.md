@@ -7,6 +7,10 @@
 ###
 
 ## Badges
+
+### 42 School Stats
+[![vapetros's 42 stats](https://badge.mediaplus.ma/darkblue/vapetros)](https://github.com/oakoudad/badge42)
+
 ### GitHub Stats
 
 <a href="http://www.github.com/vardan2902"><img src="https://github-readme-stats.vercel.app/api?username=vardan2902&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=84cc16&bg_color=1e3a8a&hide_border=true&show_icons=true" alt="vardan2902's GitHub stats" /></a>
